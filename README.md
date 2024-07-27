@@ -13,7 +13,7 @@ Live demo [here](https://tariqulislaam.github.io/internet-speed-meter/).
 - Displays download speed, upload speed, and ping
 - Customizable primary, secondary, and accent colors
 
-### Prerequisites
+## Prerequisites
 
 No special requirements. A modern web browser is sufficient.
 
