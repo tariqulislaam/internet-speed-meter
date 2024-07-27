@@ -4,14 +4,6 @@ A sleek and professional internet speed meter web application designed to measur
 
 Live demo [here](https://tariqulislaam.github.io/internet-speed-meter/).
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Features
 
 - Animated speed meter gauge
